@@ -61,7 +61,7 @@ var Data = [
                 ],
                 [
                     "Olbia/Cinarcik",
-                    [ 5, -15 ],
+                    [ 3, -13 ],
                     0,
                     57,
                     [ 42, 30 ],
@@ -209,8 +209,8 @@ var Data = [
                     '#0066ff'
                 ],
                 [
-                    "Diospoljs/Akcakoca",
-                    [ 5, -3 ],
+                    "Diospolis/Akcakoca",
+                    [ 5, -6 ],
                     0,
                     [ 58, 45 ],
                     [ 43, 20 ],
@@ -494,8 +494,8 @@ var Data = [
             ],
             [
                 "Flaviopolis/Krateia/Gerede",
-                [ 5, -3 ],
-                0,
+                [ -543, -625 ],
+                -45,
                 60,
                 43,
                 3,
