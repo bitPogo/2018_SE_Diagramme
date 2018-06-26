@@ -491,19 +491,19 @@ var Data = [
         "expansion":[
             {
                 "name": "Mariadyner",
-                "regionColor": '#b3ffb3',
+                "regionColor": '#e6ff99',
                 'color': '#000000',
                 "style": "20px times new roman",
                 "width": 50,
-                "rotate":-13,
-                "margin": [ -500, -170 ],
+                "rotate":-3,
+                "margin": [ 140, -45 ],
                 "p1": [
                     59,
-                    [ 43, 30 ]
+                    [ 43, 30 ],
                 ],
                 "p2":[
-                    [ 55, 40 ],
-                    [ 42, 45 ]
+                    [ 60, 45 ],
+                    [ 43, 35 ]
                 ]
             },
             {
@@ -512,15 +512,66 @@ var Data = [
                 'color': '#000000',
                 "style": "20px times new roman",
                 "width": 50,
-                "rotate":0,
-                "margin": [ 550, 25 ],
+                "rotate":11,
+                "margin": [ 375, -5 ],
                 "p1":[
                     56,
                     [ 43, 20 ]
                 ],
                 "p2":[
-                    [ 60, 45 ],
-                    [ 43, 35 ]
+                    [ 58, 40 ],
+                    [ 42, 45 ],
+                ]
+            },
+            {
+                "name": "Timonitis",
+                "regionColor": '#ffa366',
+                'color': '#000000',
+                "style": "20px times new roman",
+                "width": 50,
+                "rotate": 20,
+                "margin": [ 450, 70 ],
+                "p1":[
+                    [ 56, 30 ],
+                    [ 42, 45 ]
+                ],
+                "p2":[
+                    [ 58, 30 ],
+                    42
+                ]
+            },
+            {
+                "name": "Bogdomanis",
+                "regionColor": '#ff99dd',
+                'color': '#000000',
+                "style": "20px times new roman",
+                "width": 50,
+                "rotate": 10,
+                "margin": [ 300, 40 ],
+                "p1":[
+                    [ 56, 55 ],
+                    42
+                ],
+                "p2":[
+                    [ 58, 40 ],
+                    [ 41, 40 ]
+                ]
+            },
+            {
+                "name": "Zyganier",
+                "regionColor": '#ff704d',
+                'color': '#000000',
+                "style": "20px times new roman",
+                "width": 50,
+                "rotate": -12,
+                "margin": [ -50, -140 ],
+                "p1":[
+                    [ 58, 50 ],
+                    [ 41, 40 ]
+                ],
+                "p2":[
+                    60,
+                    [ 41, 55 ]
                 ]
             }
         ]
